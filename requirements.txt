@@ -1,0 +1,7 @@
+numpy==1.21.2
+matplotlib==3.4.3
+rasterio==1.2.10
+tensorflow>=2.8.1
+scikit-learn==1.0
+jupyter==1.0.0
+tensorflow-addons==0.16.1
