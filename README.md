@@ -3,6 +3,9 @@
 **Authors: Alessandro Sebastianelli, Erika Puglisi, Maria Pia Del Rosso, Jamila Mifdal, Artur Nowakowki, Fiora Pirri, Pierre Philippe Mathieu and Silvia Liberata Ullo**
 
 
+**PLEASE BE AWARE THAT THIS REPO IS CURRENTLY UNDER MAINTENANCE, WE ARE UPGRADING THE CODE**
+**A NEWER IMPLEMENTATION WILL APPEAR SOON**
+
 
 The proposed PLFM model combines a time-series of optical images and a SAR image to remove clouds from optical images.
 
