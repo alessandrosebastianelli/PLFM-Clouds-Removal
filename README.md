@@ -12,7 +12,6 @@ The proposed PLFM model combines a time-series of optical images and a SAR image
 ![](res/cloudy.png) | ![](res/prediction.png) | ![](res/gt.png)
 
 
-
 ## Usage
 To train the PLFM you can simply run
 
@@ -34,18 +33,8 @@ python main.py --test dataset_path
 where dataset_path is the path to the test dataset.
 
 
-## Dataset:
-The dataset collects roughly 8000 Sentinel-1 (S1) and 8000 Sentinel-2 (S2) images or 2000 S1 and 2000 S2 time-series of 4 images. Each image has a shape of 256x256 pixels; for S1 images only the VV polarisation has been considered; for S2 the red, green and blue bands (including also the QA60 cloud mask band) have been considered.
-
-The dataset is currently shared on google drive:
-
-- [Part 1] https://drive.google.com/drive/folders/1Y8647SFRBS4l5-YK75yz4WyzAx8K4Kou?usp=sharing
-- [Part 2] https://drive.google.com/drive/folders/16cF49ZMUn1ROTIxdaH9u74xSs6oqHE2o?usp=sharing
-- [Part 3] https://drive.google.com/drive/folders/1Af_V8uY-OAtW4O_L_doSlPsmpueZdd11?usp=sharing
-
-
-!!The larger dataset will be uploaded asap....we are finding a better solution to share the data!!
-
+## Dataset
+The dataset will be available soon.
 
 ## Cite our papers
 
