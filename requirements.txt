@@ -1,4 +1,4 @@
-numpy==1.21.2
+numpy==1.22.0
 matplotlib==3.4.3
 rasterio==1.2.10
 tensorflow>=2.8.1
